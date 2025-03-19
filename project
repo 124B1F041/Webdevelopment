@@ -143,3 +143,99 @@
 </body>
 
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Information</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+            color:BLACK;
+        }
+        header {
+            background-color: #ff6347;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            width: 90%;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        .album-info {
+            text-align: center;
+            background-color: RED;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .album-info h2 {
+            font-size: 28px;
+            color:BLACK;
+        }
+        .album-info p {
+            font-size: 18px;
+            color: BLACK;
+        }
+        .track-list {
+            background-color: YELLOW;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .track-list h3 {
+            font-size: 24px;
+            color: #333;
+        }
+        .track-list ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .track-list li {
+            font-size: 18px;
+            padding: 5px 0;
+        }
+        footer {
+            background-color: GREEN;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Music Album Info</h1>
+</header>
+
+<div class="container">
+    <div class="album-info">
+        <h2>Album: Bhumi</h2>
+        <p><strong>Artist:</strong> Salim Sulaiman </p>
+        <p><strong>Genre:</strong> indian classical music</p>
+        <p><strong>Released:</strong> 2023</p>
+    </div>
+
+    <div class="track-list">
+        <h3>Tracklist</h3>
+        <ul>
+            <li>1. Salaam</li>
+            <li>2. Doob ja</li>
+            <li>3. Koi bole ram</li>
+            <li>4. Ruk ja</li>
+            <li>5. Duniya</li>
+        </ul>
+    </div>
+</div>
+
+
