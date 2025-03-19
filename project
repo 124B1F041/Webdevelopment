@@ -220,16 +220,21 @@
 
 <div class="container">
     <div class="album-info">
+        <H2>INDIAN FAMOUS SINGER</H2>
         <h2>Album: Bhumi</h2>
         <p><strong>Artist:</strong> Salim Sulaiman </p>
         <p><strong>Genre:</strong> indian classical music</p>
         <p><strong>Released:</strong> 2023</p>
+        <h2>Album:Best Of Arijit Singh</h2>
+        <p><strong>Artist:</strong> ARIJIT SINGH </p>
+        <p><strong>Genre:</strong> indian classical music</p>
+        <p><strong>Released:</strong> 2024</p>
     </div>
 
     <div class="track-list">
-        <h3>Tracklist</h3>
+        <h3>Tracklist Of Bhumi</h3>
         <ul>
-          <li>1. Salaam</li>
+            <li>1. Salaam</li>
             <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=salam+song&&mid=204FEB720485312AA503204FEB720485312AA503&&FORM=VRDGAR" target="_blank">Click here to listen to Salam</a>
             <li>2. Doob ja</li>
             <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=doob+ja++song+from+bhumi&&mid=1858E6A3D73E5B43FB931858E6A3D73E5B43FB93&&FORM=VRDGAR" target="_blank">Click here to listen to doob ja</a>
@@ -241,6 +246,25 @@
             <a href="https://www.bing.com/videos/riverview/relatedvideo?q=duniya+song+from+bhumi&&mid=F2E4C129AF5C860A1426F2E4C129AF5C860A1426&FORM=VCGVRP" target="_blank">Click here to listen to duniya</a>
         </ul>
     </div>
+    <div class="track-list">
+        <h3>Tracklist Of Best Of Arijit Singh</h3>
+        <ul>
+            <li>1. Tum hi ho</li>
+            <a href="https://www.bing.com/ck/a?!&&p=4a1d4b9a0c814d8d7736a48f22d3e9cff3ef2eff7a7b2d601615d511d961e4b7JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9dHVtK2hpK2hvK2xpbmsmbWlkPUIyNzIwMDJCQTE1QjUwMTVBQjY1QjI3MjAwMkJBMTVCNTAxNUFCNjUmRk9STT1WSVJF&ntb=1" target="_blank">Click here to listen to tum hi ho</a>
+            
+            <li>2. Raabta</li>
+            <a href="https://www.bing.com/ck/a?!&&p=551c7c764e200ff05f07fcdf01abd45253c7a856ca56765da5e9f5937fa1dbf1JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9cmFhYnRhK3NvbmcrJiZtaWQ9NDk1RjM3RjQ5RkUzNzBFRjc4Rjc0OTVGMzdGNDlGRTM3MEVGNzhGNyZGT1JNPVZBTUdaQw&ntb=1" target="_blank">Click here to listen to rabta</a>
+            <li>3. Tose Naina</li>
+            <a href="https://www.bing.com/ck/a?!&&p=b805ed6163373584d4be35694e5917613cd1fde67df8ce7f7fe822d2d14efebfJmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9dG9oc2UrbmFpbmErc29uZysmJm1pZD0xNkJGNkM5ODJFNTE0ODgyREU0NDE2QkY2Qzk4MkU1MTQ4ODJERTQ0JkZPUk09VkFNR1pD&ntb=1" target="_blank">Click here to listen to tohse naina</a>
+            <li>4. Kabira</li>
+            <a href="https://www.bing.com/ck/a?!&&p=85209689c1657867827f2e722fe1d1a1551dd5f44c4b086e91bb3692b6b58fd1JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9a2FiaXJhK3NvbmcrJiZtaWQ9QjI1M0NCRTFCODU2NzY2QjVCMEVCMjUzQ0JFMUI4NTY3NjZCNUIwRSZGT1JNPVZBTUdaQw&ntb=1" target="_blank">Click here to listen to kabira</a>
+            <li>5.har Kisiko </li>
+            <a href="https://www.bing.com/ck/a?!&&p=8b238fc6a8448b41a733c9397ed92ce6429fc44b3fc484c85329d91b3ea1043fJmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9aGFyK2tpc2lrbytzb25nKyYmbWlkPTYwNjIyNkUyQ0M4MkJFNUM2MkM1NjA2MjI2RTJDQzgyQkU1QzYyQzUmRk9STT1WQU1HWkM&ntb=1" target="_blank">Click here to listen to kisiko</a>
+            <li>6.Mast Magan </li>
+            <a href="https://www.bing.com/ck/a?!&&p=2fcb0034e4e9504fdf42d9c9c39f2c52b6afe8520611a20d6dc208c37f69a7e4JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWFzdCttYWdhbitzb25nKyYmbWlkPTI2NTIzOUU2ODEzQTEyRDg2QkY0MjY1MjM5RTY4MTNBMTJEODZCRjQmRk9STT1WQU1HWkM&ntb=1" target="_blank">Click here to listen to mast magan</a>
+        </ul>
+    </div>
 </div>
+
 
 
