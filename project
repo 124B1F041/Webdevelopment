@@ -523,6 +523,121 @@
         </ul>
     </div>
 </div>
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trending Marathi Songs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .song-list {
+            max-width: 500px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .song {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .song:last-child {
+            border-bottom: none;
+        }
+        a {
+            text-decoration: none;
+            background: #28a745;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+        a:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <h2>Trending Marathi Songs</h2>
+    <div class="song-list">
+        <div class="song">
+            <span>1. Song Title:Treanding marathi mashup</span>
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=TRENDING+marathi+songs&&mid=7DE91511972A0721766E7DE91511972A0721766E&FORM=VAMGZC" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>2. Song Title -Dhaga Dhaga, Artist-Aanandi Joshi</span>
+            <a href="https://www.bing.com/ck/a?!&&p=db2dda34a9618f62f6e83056ac6a61bf4c3fe3d1b31d88f5076000324fd285b7JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9ZGhhZ2ErZGhhZ2Erc29uZythcnRpc3QmbWlkPTM4MEQ4QTI0REU0NUVFQzNDNzE4MzgwRDhBMjRERTQ1RUVDM0M3MTgmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>3. Song Title - Harevale Man Maze ,Artist-Rohit Raut</span>
+            <a href="https://www.bing.com/ck/a?!&&p=693f87a36f06dda3d26d91f1d1fbf8011373a3146480c2a2c00b510baa25d714JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&psq=haravale+man+maze+sojg+link&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1lMm9LWmI2eVVnZw&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>4. Song Title - Swarg Ha Nava, Artist-</span>
+            <a href="https://www.bing.com/ck/a?!&&p=f5f0f6e68caa00073527c0622c8d4eb72b3e69ee1c71656fef15802c1976d778JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9U1dBUkdBK0hBK05BVkErQVJUSVNUK05BTStFJm1pZD0yOUI3QkY2Q0QwQ0NGM0ZFQ0NCMTI5QjdCRjZDRDBDQ0YzRkVDQ0IxJkZPUk09VklSRQ&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>5. Song Title -As Ks Bolayach , Artist-Alok Rajwade</span>
+            <a href="https://www.youtube.com/watch?v=r8ZpJzXg8CY" target="_blank">Listen</a>
+        </div>
+    </div>
+    <h2>Trending Hindi Songs</h2>
+    <div class="song-list">
+        <div class="song">
+            <span>1. Song Title:pal pal dil ke pass,artist-Kishore Kumar</span>
+            <a href="https://www.youtube.com/watch?v=1XW49GYRtJ0" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>2. Song Title -o mahi, Artist-Arjit Singh</span>
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=o+mahi+link&&mid=476DC91F136E3A823741476DC91F136E3A823741&FORM=VCGVRP" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>3. Song Title - Yad Piya Ki Aane Lagi ,Artist-Neha Kakker</span>
+            <a href="https://www.bing.com/ck/a?!&&p=693f87a36f06dda3d26d91f1d1fbf8011373a3146480c2a2c00b510baa25d714JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&psq=haravale+man+maze+sojg+link&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1lMm9LWmI2eVVnZw&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>4. Song Title - Tera Ban Jaunga, Artist-Tulsi Kumar</span>
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=tera+ban+jaunga+lnk&&mid=545141F82C5C1A02A395545141F82C5C1A02A395&FORM=VAMGZC" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>5. Song Title -Kise Hua , Artist-Vishal Mishra</span>
+            <a href="https://www.bing.com/ck/a?!&&p=053987c168fb47c6f08f1958ac460a9a1a4f09cf70411494128314448477f4e6JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9a2lhc2UraHVhK2xpbmsmbWlkPTlDRkUzOTYwNUNGNjJFRTQ2MEZFOUNGRTM5NjA1Q0Y2MkVFNDYwRkUmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a>
+        </div>
+    </div>
+    <h2>Trending English Songs</h2>
+    <div class="song-list">
+        <div class="song">
+            <span>1. Song Title:love me like you do,artist-Ellie Goulding</span>
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=love+me+like+you+do+artist&&mid=2BC971B97D7F7461E84B2BC971B97D7F7461E84B&FORM=VCGVRP" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>2. Song Title -Who Says, Artist-Selena Gomez & the Scene</span>
+            <a href="https://www.bing.com/ck/a?!&&p=f2c19176033145bcb868b89a50321a78373fc2377c3503a82361addc78c0fa72JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&psq=who+says++song+artist+name&u=a1aHR0cHM6Ly9mYXJvdXRtYWdhemluZS5jby51ay90aGUtMTAtbXVzaWNpYW5zLXdoby1pbnNwaXJlZC10aGUtYmVhdGxlcy8&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>3. Song Title -chip thrills,Artist-sia</span>
+            <a href="https://www.bing.com/ck/a?!&&p=80b070940e4c1f1de61b8e11d14d7b933c7bec16019f440526c889111754969eJmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9Y2hpcCt0aHJpbGxzK3NvbmcrYXJ0aXN0K25hbWUmbWlkPTJGQTlEMTRCODJENzI2OTYzOUUxMkZBOUQxNEI4MkQ3MjY5NjM5RTEmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>4. Song Title -I don't care, Artist-Ed Sheeran</span>
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=tera+ban+jaunga+lnk&&mid=545141F82C5C1A02A395545141F82C5C1A02A395&FORM=VAMGZC" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <span>5. Song Title -die with a smile, Artist-songwriters Lady Gaga and Bruno Mars</span>
+            <a href="https://www.bing.com/ck/a?!&&p=053987c168fb47c6f08f1958ac460a9a1a4f09cf70411494128314448477f4e6JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9a2lhc2UraHVhK2xpbmsmbWlkPTlDRkUzOTYwNUNGNjJFRTQ2MEZFOUNGRTM5NjA1Q0Y2MkVFNDYwRkUmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a>
+        </div>
+    </div>
+</body>
+</html>
 
 
 
