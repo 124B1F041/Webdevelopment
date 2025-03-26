@@ -638,6 +638,89 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 10 Songs of ARIJIT SINGH</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color:PINK#f0f0f0;
+            margin: 0;
+            padding: 5px;
+        }
+        h1 {
+            text-align: center;
+            color: BLACK;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color:papayawhip;
+            margin: 5px 0;
+            padding: 8px;
+            border-radius: 5px;
+            box-shadow: 2 2 5px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            text-decoration: none;
+            color: BLACK;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h3>----**Top 10 Songs of ARIJIT SINGH**----</h3>
+    <h4>Click Here To Listen</h4>
 
+    <ul>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=kesariya+song&&mid=55D5C5B2BE814BEBF9DE55D5C5B2BE814BEBF9DE&mcid=640F41E447494BEBA3C12531E3A94CF5&FORM=VCGVRP" target="_blank">KESARIYA</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=THODI+JAGAH&&mid=F7C13098D479E7D5ED29F7C13098D479E7D5ED29&&mcid=EF0A793E95EF4848888EA49012ACBB1F&FORM=VRDGAR" target="_blank">THODI JAGAH</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=agar+tum+saath+ho&&mid=8470A712CF94B4C8DA908470A712CF94B4C8DA90&mcid=0F3D09C6FCF8454995107255126B4732&FORM=VCGVRP" target="_blank">AGAR TUM SATH HO</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=TUZE+KITNA+CHAHNE+LAGE&&mid=658FF546E43FEF233E9C658FF546E43FEF233E9C&&mcid=CE6CA87980E34E83B02737C9498045A2&FORM=VRDGAR" target="_blank">TUZE KITNA CHAHNE LAGE</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=CHOD+DIYA&&mid=21CA7B5C99E1F17ED51221CA7B5C99E1F17ED512&&mcid=8AE2D101B956429F9B3301B3E784012C&FORM=VRDGAR" target="_blank">CHOD DIYA</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=KHAIRYAT&&mid=7B8AFB68C6C70D7CF8987B8AFB68C6C70D7CF898&mcid=D4D13482842A4E1A8A8C6DE4DDC9147C&FORM=VCGVRP" target="_blank">KHAIRIYAT</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=HAM+DARD+SONG+&&mid=26FCD2C9A9BC0A6231D226FCD2C9A9BC0A6231D2&&mcid=31AC3CE782E441ABB612830C61D260DF&FORM=VRDGAR" target="_blank">HAMDARD</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=phir+bhi+tumko+chahunga&&mid=576B21A0D9758361816C576B21A0D9758361816C&mcid=79DF7A01588749BAB97BB31A86EFFE34&FORM=VCGVRP" target="_blank">PHIR BHI TUMKO CHAHUNGA</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=har+kisi+ko+nahi+milta+song&&mid=606226E2CC82BE5C62C5606226E2CC82BE5C62C5&mcid=C39147F313FD4B71942DF9A3A57E6AA9&FORM=VCGVRP" target="_blank">HAR KISIKO KO</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=O+MAHI&&mid=476DC91F136E3A823741476DC91F136E3A823741&mcid=2014BC956DC043E2A558F3B1F6957FA4&FORM=VCGVRP" target="_blank">O MAHI</a></li>
+    </ul>
+    <h3>----**Top 10 Songs of LATA MANGESHKAR**----</h3>
+    <h4>Click Here To Listen</h4>
+    <ul>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=TUZE+DEKHA+TO+JANA+SANAM&&mid=8416D194656C88600B158416D194656C88600B15&mcid=7113F3A441A54AF39B3D8DDF640E640A&FORM=VCGVRP" target="_blank">TUZE DEKHA TO JANA SANAM </a></li>
+        <li><a href="https://www.bing.com/ck/a?!&&p=decf88cb779d985f11dfdcb500beea1aa875fb97fe7f34e8e216556786fc5ccfJmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=12170e46-061a-6d27-046b-1bf507a86c18&psq=Hothon+Main+Aisi+Baat+from+Jewel+Thief&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1WQkoxT0EzcXpMZw&ntb=1" target="_blank">Hothon Main Aisi Baat from Jewel Thief</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=Aaj+Phir+Jeene+Ki+Tamanna&&mid=B9F95DF254C93AEFA0CAB9F95DF254C93AEFA0CA&&mcid=8B99ED3D9D7741178573278C815A67B9&FORM=VRDGAR" target="_blank">Aaj Phir Jeene Ki Tamanna</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=Piya+Tose&&mid=6D1D4145A6D58D041C406D1D4145A6D58D041C40&&mcid=80CA671869A648BDB18A09234081BC9C&FORM=VRDGAR" target="_blank">Piya Tose</a></li>
+        <li><a href="https://www.bing.com/ck/a?!&&p=1a06fe840fd76874fc318ddbcec7f36930c58f9e535ead950cea1423b26fa4edJmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=12170e46-061a-6d27-046b-1bf507a86c18&psq=Kora+Kagaz+Tha+Yeh+Mann+Mera&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qN1RNMmNjT0diVQ&ntb=1" target="_blank">Kora Kagaz Tha Yeh Mann Mera</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=%3eMera+Saaya+Saath+Hoga&&mid=8B3E862257D1ED933C148B3E862257D1ED933C14&&mcid=43B6E02FDBBF41369366C9E32760A7E8&FORM=VRDGAR" target="_blank">Mera Saaya Saath Hoga</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=Aap+Ki+Nazron+Ne+Samjha&&mid=D26868461B8D8B2BC1BAD26868461B8D8B2BC1BA&mcid=2C685F3A3F3440C39C7CB47DB6CF297F&FORM=VCGVRP" target="_blank">Aap Ki Nazron Ne Samjha</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=Jiya+Jale&&mid=A490FB56CB3073F8B460A490FB56CB3073F8B460&mcid=FC2F4A88A63046A0B5A4970530FDB4FB&FORM=VCGVRP" target="_blank">Jiya Jale</a></li>
+        <li><a href="https://www.bing.com/ck/a?!&&p=4ff7482fce66de36784b3978b726aa669bce827dab3a9435d7d070e4f2156314JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=12170e46-061a-6d27-046b-1bf507a86c18&psq=Humein+Aur+Jeene+Ki&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj16ZmY0RWowZ19aUQ&ntb=1" target="_blank">Humein Aur Jeene Ki</a></li>
+        <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=Lag+Ja+Gale&&mid=5C15F0E16E0DCDB7FAC35C15F0E16E0DCDB7FAC3&mcid=B68B09664125431C907B84A2C3EECAC2&FORM=VCGVRP" target="_blank">Lag Ja Gale</a></li>
+    </ul>
+    <h3>----**Top 10 Songs of KISHORE KUMAR**----</h3>
+    <h4>Click Here To Listen</h4>
+
+    <ul>
+        <li><a href="" target="_blank">Mere Mehboob Qayamat Hogi </a></li>
+        <li><a href="" target="_blank">Yeh Raaten Yeh Mausam </a></li>
+        <li><a href="" target="_blank">O Mere Dil Ke Chain</a></li>
+        <li><a href="" target="_blank"> Yeh Shaam Mastani </a></li>
+        <li><a href="" target="_blank">Neele Neele Ambar</a></li>
+        <li><a href="" target="_blank">Chhu Kar Mere Manko</a></li>
+        <li><a href="" target="_blank"> Pal Pal Dil Ke Paas Tum Rehti Ho</a></li>
+        <li><a href="" target="_blank">Tu Tu Hai Wahi </a></li>
+        <li><a href="" target="_blank">Ek Ajnabee Haseena Se</a></li>
+        <li><a href="" target="_blank"></a></li>
+    </ul>
+</body>
+</html>
 
 
