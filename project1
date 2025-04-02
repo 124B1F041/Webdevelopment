@@ -400,7 +400,7 @@ footer p {
 <body>
     <h3>----**Top 10 Songs of ARIJIT SINGH**----</h3>
     <h4>Click Here To Listen</h4>
-
+     <style> background: linear-gradient(135deg, #FF6347, #FF00FF)</style>
     <ul>
         <li><a href="https://www.bing.com/videos/riverview/relatedvideo?q=kesariya+song&&mid=55D5C5B2BE814BEBF9DE55D5C5B2BE814BEBF9DE&mcid=640F41E447494BEBA3C12531E3A94CF5&FORM=VCGVRP" target="_blank">KESARIYA</a></li>
         <li><a href="https://www.bing.com/videos/riverview/relatedvideo?&q=THODI+JAGAH&&mid=F7C13098D479E7D5ED29F7C13098D479E7D5ED29&&mcid=EF0A793E95EF4848888EA49012ACBB1F&FORM=VRDGAR" target="_blank">THODI JAGAH</a></li>
