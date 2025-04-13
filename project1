@@ -20,8 +20,8 @@
     <!-- About Section -->
     <section class="about">
         <div class="container">
-            <h2>About the Project</h2>
-            <p>Project Of Webdevelopment Guided By Shewta Devdas Mam</p>
+            <h3>"Music is the heartbeat of the soul, speaking what words cannot." 🎶💫</h3>
+            <h2>Project Of Webdevelopment Guided By Shewta Devdas Mam</h2>
         </div>
     </section>
 
@@ -64,7 +64,7 @@ body {
 h1, h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    color: #fff;
+    color:black;
 }
 
 a {
@@ -270,7 +270,7 @@ footer p {
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color:PINK#f0f0f0;
+            background-color:hotpink#f0f0f0;
             margin: 0;
             padding: 5px;
         }
@@ -610,9 +610,9 @@ footer p {
     <title>Music Album Info</title>
     <style>
         body {
-            background-color: pink;
+            background-color: hot pink;
             font-family: Arial, sans-serif;
-            color: #4B0082; /* Deep purple for contrast */
+            color: black; /* Deep purple for contrast */
         }
 
         .artist-gallery {
@@ -642,7 +642,7 @@ footer p {
             margin-top: 10px;
             font-weight: bold;
             font-size: 18px;
-            color: #C71585; /* Medium violet red */
+            color: black; /* Medium violet red */
         }
 
         h1 {
@@ -661,7 +661,7 @@ footer p {
     <title>Music Album Info</title>
     <style>
         body {
-            background-color: pink;
+            background-color: hotpink;
             font-family: Arial, sans-serif;
             color: #4B0082;
         }
@@ -730,6 +730,14 @@ footer p {
             <div class="artist-name">Shreya Ghoshal</div>
         </div>
         <div class="artist-card">
+            <img src="https://th.bing.com/th/id/OIP.GZhXhpNMxS4jSJbHmCMYeQHaI-?rs=1&pid=ImgDetMain" alt="Neha Kakkar">
+            <div class="artist-name">Neha Kakkar</div>
+        </div>
+        <div class="artist-card">
+            <img src="https://images.assettype.com/freepressjournal%2F2020-12%2Fdb19c51f-1658-4744-a3ae-ed96ed84c3f5%2Fc_udit_narayan_anchor_nov_30.jpg?w=1200" alt="Udit Narayan">
+            <div class="artist-name">Udit Narayan </div>
+        </div>
+        <div class="artist-card">
             <img src="https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2022/06/01/34316973-7772-46a4-a511-985445828a0b_dc409ad2.jpg" alt="KK">
             <div class="artist-name">KK</div>
         </div>
@@ -748,7 +756,7 @@ footer p {
             padding: 20px;
         }
         h1 {
-            color: #cc0000;
+            color: black;
         }
         .singer {
             background-color: #fff0f5; /* Soft pink card */
@@ -808,7 +816,7 @@ footer p {
 
         h1 {
             text-align: center;
-            color: #800040;
+            color: black;
             margin-bottom: 40px;
             font-size: 3em;
             text-shadow: 1px 1px 3px #fff;
@@ -842,7 +850,7 @@ footer p {
 
         .singer h2 {
             margin: 0;
-            color: #cc0052;
+            color: black;
         }
 
         .singer p {
@@ -968,5 +976,146 @@ footer p {
 </body>
 </html>
 
-
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Thank You Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+  <style>
+    .prachi-thank-you-page {
+      background: linear-gradient(to bottom right, #fce4ec, #f8bbd0);
+      padding: 50px 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #880e4f;
+      min-height: 100vh;
+    }
+
+    .prachi-thank-you-content {
+      max-width: 800px;
+      width: 100%;
+      background: rgba(255, 255, 255, 0.7);
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(255, 105, 180, 0.4);
+      text-align: center;
+    }
+
+    .prachi-thank-you-content h1 {
+      font-family: 'Great Vibes', cursive;
+      font-size: 3em;
+      color: #d81b60;
+      margin-bottom: 20px;
+    }
+
+    .prachi-thank-you-content p,
+    .prachi-thank-you-content blockquote,
+    .prachi-thank-you-content footer {
+      font-family: 'Georgia', serif;
+      font-size: 1.2em;
+      line-height: 1.6;
+      margin: 15px 0;
+    }
+
+    .prachi-message {
+      font-style: italic;
+      color: #ad1457;
+      margin: 25px 0;
+    }
+
+    .prachi-highlights {
+      background: rgba(255, 255, 255, 0.3);
+      padding: 20px;
+      border-radius: 15px;
+      margin: 30px 0;
+      text-align: left;
+    }
+
+    .prachi-highlights h2 {
+      font-family: 'Georgia', serif;
+      color: #8e24aa;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+
+    .prachi-highlights ul {
+      list-style-type: none;
+      padding-left: 0;
+      color: #4a148c;
+      font-size: 1.1em;
+    }
+
+    .prachi-highlights ul li::before {
+      content: "🎵 ";
+      margin-right: 8px;
+    }
+
+    .prachi-thank-you-content blockquote {
+      font-style: italic;
+      color: #6a1b9a;
+      margin: 30px 0;
+    }
+
+    .prachi-thank-you-content footer {
+      font-weight: bold;
+      color:white;
+      margin-top: 30px;
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Your previous webpage content will be above this -->
+
+  <!-- 🌸 Thank You Page Start -->
+  <section class="prachi-thank-you-page">
+    <div class="prachi-thank-you-content">
+      <h1>🌸 Thank You 🌸</h1>
+
+      <p>
+        With heartfelt gratitude, I extend my thanks to all who supported and encouraged me throughout this journey.
+      </p>
+
+      <p class="prachi-message">
+        This project has been more than just an assignment — it was a chance to learn, explore, and express my creativity. I’m truly proud of what I’ve achieved, and this experience has added beautiful memories to my academic life. 💫
+      </p>
+
+      <div class="prachi-highlights">
+        <h2>📌 Project Highlights:</h2>
+        <ul>
+          <li>✔ Learned new skills and concepts</li>
+          <li>✔ Explored creative design techniques</li>
+          <li>✔ Overcame technical challenges</li>
+          <li>✔ Presented my ideas with confidence</li>
+        </ul>
+      </div>
+
+      <p>
+        <strong>Special Mentions:</strong><br>
+        - My respected teachers and guides<br>
+        - My dear friends and classmates<br>
+        - My lovely family for always being there
+      </p>
+
+      <blockquote>“Creativity is intelligence having fun.” – Albert Einstein</blockquote>
+
+      <footer>
+        🌷 Presented by:<br>
+        <strong>1.124B1F041 : Prachi Atmaram Gorle</strong><br>
+        <strong>2.124B1F043 : Diksha D. Mane</strong><br>
+        <strong>3.124B1F038 : Divya R.Gondhali</strong><br>
+        Class: FY Btech(IT)<br>
+        College: PCCOE, Pune<br><br>
+        🌺 Thank you for being a part of our journey! 🌺
+      </footer>
+    </div>
+  </section>
+  <!-- 🌸 Thank You Page End -->
+
+</body>
+</html>
+
