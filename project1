@@ -1115,7 +1115,269 @@ footer p {
     </div>
   </section>
   <!-- 🌸 Thank You Page End -->
+<header>
+    <h1>Music Album Info</h1>
+</header>
 
+<div class="container">
+    <div class="album-info">
+        <H2>INDIAN FAMOUS SINGER</H2>
+        <h2>Album: Bhumi</h2>
+        <p><strong>Artist:</strong> Salim Sulaiman </p>
+        <p><strong>Genre:</strong> indian classical music</p>
+        <p><strong>Released:</strong> 2023</p>
+        <h2>Album:Best Of Arijit Singh</h2>
+        <p><strong>Artist:</strong> ARIJIT SINGH </p>
+        <p><strong>Genre:</strong> indian classical music</p>
+        <p><strong>Released:</strong> 2024</p>
+    </div>
+
+    <div class="track-list">
+        <h3>Tracklist Of Bhumi</h3>
+        <ul>
+            <li>1. Salaam</li><img src="salaam.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=salam+song&&mid=204FEB720485312AA503204FEB720485312AA503&&FORM=VRDGAR" target="_blank">Click here to listen to Salam</a>
+            <li>2. Doob ja</li><img src="doob ja.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=doob+ja++song+from+bhumi&&mid=1858E6A3D73E5B43FB931858E6A3D73E5B43FB93&&FORM=VRDGAR" target="_blank">Click here to listen to doob ja</a>
+            <li>3. Koi bole ram</li><img src="Koi bole ram.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=koi+bole+ram++song+from+bhumi&&mid=AA41D413C5D23850A35FAA41D413C5D23850A35F&FORM=VCGVRP" target="_blank">Click here to listen to koi bole ram</a>
+            <li>4. Ruk ja</li><img src="Ruk ja.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=ruk+ja++song+from+bhumi&&mid=314CD2E0B83815BA4ABF314CD2E0B83815BA4ABF&&FORM=VRDGAR" target="_blank">Click here to listen to ruk ja</a>
+            <li>5. Duniya</li><img src="Duniya.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=duniya+song+from+bhumi&&mid=F2E4C129AF5C860A1426F2E4C129AF5C860A1426&FORM=VCGVRP" target="_blank">Click here to listen to duniya</a>
+        </ul>
+    </div>
+    <div class="track-list">
+        <h3>Tracklist Of Best Of Arijit Singh</h3>
+        <ul>
+            <li>1. Tum hi ho</li><img src="Tum hi ho.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=4a1d4b9a0c814d8d7736a48f22d3e9cff3ef2eff7a7b2d601615d511d961e4b7JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9dHVtK2hpK2hvK2xpbmsmbWlkPUIyNzIwMDJCQTE1QjUwMTVBQjY1QjI3MjAwMkJBMTVCNTAxNUFCNjUmRk9STT1WSVJF&ntb=1" target="_blank">Click here to listen to tum hi ho</a>
+            
+            <li>2. Raabta</li><img src="Raabta.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=551c7c764e200ff05f07fcdf01abd45253c7a856ca56765da5e9f5937fa1dbf1JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9cmFhYnRhK3NvbmcrJiZtaWQ9NDk1RjM3RjQ5RkUzNzBFRjc4Rjc0OTVGMzdGNDlGRTM3MEVGNzhGNyZGT1JNPVZBTUdaQw&ntb=1" target="_blank">Click here to listen to rabta</a>
+            <li>3. Tose Naina</li><img src="Tose naina.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=b805ed6163373584d4be35694e5917613cd1fde67df8ce7f7fe822d2d14efebfJmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9dG9oc2UrbmFpbmErc29uZysmJm1pZD0xNkJGNkM5ODJFNTE0ODgyREU0NDE2QkY2Qzk4MkU1MTQ4ODJERTQ0JkZPUk09VkFNR1pD&ntb=1" target="_blank">Click here to listen to tohse naina</a>
+            <li>4. Kabira</li><img src="Kabira.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=85209689c1657867827f2e722fe1d1a1551dd5f44c4b086e91bb3692b6b58fd1JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9a2FiaXJhK3NvbmcrJiZtaWQ9QjI1M0NCRTFCODU2NzY2QjVCMEVCMjUzQ0JFMUI4NTY3NjZCNUIwRSZGT1JNPVZBTUdaQw&ntb=1" target="_blank">Click here to listen to kabira</a>
+            <li>5.har Kisiko </li><img src="har kisi ko.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=8b238fc6a8448b41a733c9397ed92ce6429fc44b3fc484c85329d91b3ea1043fJmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9aGFyK2tpc2lrbytzb25nKyYmbWlkPTYwNjIyNkUyQ0M4MkJFNUM2MkM1NjA2MjI2RTJDQzgyQkU1QzYyQzUmRk9STT1WQU1HWkM&ntb=1" target="_blank">Click here to listen to kisiko</a>
+            <li>6.Mast Magan </li><img src="Mast magan.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=2fcb0034e4e9504fdf42d9c9c39f2c52b6afe8520611a20d6dc208c37f69a7e4JmltdHM9MTc0MjI1NjAwMA&ptn=3&ver=2&hsh=4&fclid=2064de09-eaa1-6b82-2d38-cda6eb3a6a29&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWFzdCttYWdhbitzb25nKyYmbWlkPTI2NTIzOUU2ODEzQTEyRDg2QkY0MjY1MjM5RTY4MTNBMTJEODZCRjQmRk9STT1WQU1HWkM&ntb=1" target="_blank">Click here to listen to mast magan</a>
+            <li>7.Lehra Do </li><img src="Lehra Do.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=23afb774c93fffe612d5398613b95bd4250cf1e5a2d6dd88c7b41acd56a3a66dJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bGVocmErZG8rc29uZyYmbWlkPUQyMUU4MDlDRUU0NjEzRjQ1RTRCRDIxRTgwOUNFRTQ2MTNGNDVFNEImRk9STT1WQU1HWkM&ntb=1"target="_blank">Click here to listen to Lehra do</a>
+ <li>8.Love me thoda aur </li><img src="Love me thoda aur.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=23afb774c93fffe612d5398613b95bd4250cf1e5a2d6dd88c7b41acd56a3a66dJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bGVocmErZG8rc29uZyYmbWlkPUQyMUU4MDlDRUU0NjEzRjQ1RTRCRDIxRTgwOUNFRTQ2MTNGNDVFNEImRk9STT1WQU1HWkM&ntb=1"target="_blank">Click here to listen to Love me thoda aur</a>        
+ <li>9.Teri saanson mein </li><img src="Teri saanson mein.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=23afb774c93fffe612d5398613b95bd4250cf1e5a2d6dd88c7b41acd56a3a66dJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bGVocmErZG8rc29uZyYmbWlkPUQyMUU4MDlDRUU0NjEzRjQ1RTRCRDIxRTgwOUNFRTQ2MTNGNDVFNEImRk9STT1WQU1HWkM&ntb=1"target="_blank">Click here to listen to Teri saanson mein</a>  
+<li>10.Khuda na khasta </li><img src="Khuda na khasta.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=07e98024bdc83be5a421303b7629403be36f7370289556b0fb5da60afb311ff5JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=Khuda+Na+Khasta&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj05Qk1ocWVjNkdEMA&ntb=1">Click here to listen to Khuda na khasta</a>                              
+</ul>
+
+</div>
+ <h2>Trending Marathi Songs</h2>
+    <div class="song-list">
+        <div class="song">
+<ul>
+          <li>1. Song Title:Treanding marathi mashup</li>
+<img src="trending marathi mashup songs.jpeg" height="300" width="300">
+        <a href="https://www.bing.com/videos/riverview/relatedvideo?q=TRENDING+marathi+songs&&mid=7DE91511972A0721766E7DE91511972A0721766E&FORM=VAMGZC" target="_blank">Listen</a><br>
+        </div>
+        <div class="song">
+        <li>2. Song Title -Dhaga Dhaga, Artist-Aanandi Joshi</li>
+<img src="Dhaga Dhaga.jpeg" height="300" width="300">
+        <a href="https://www.bing.com/ck/a?!&&p=db2dda34a9618f62f6e83056ac6a61bf4c3fe3d1b31d88f5076000324fd285b7JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9ZGhhZ2ErZGhhZ2Erc29uZythcnRpc3QmbWlkPTM4MEQ4QTI0REU0NUVFQzNDNzE4MzgwRDhBMjRERTQ1RUVDM0M3MTgmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a><br>
+        </div>
+        <div class="song">
+         <li>3. Song Title - Harevale Man Maze ,Artist-Rohit Raut</li>
+<img src="Haravale man maze.jpeg" height="300" width="300">
+        <a href="https://www.bing.com/ck/a?!&&p=693f87a36f06dda3d26d91f1d1fbf8011373a3146480c2a2c00b510baa25d714JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&psq=haravale+man+maze+sojg+link&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1lMm9LWmI2eVVnZw&ntb=1" target="_blank">Listen</a><br>
+        </div>
+        <div class="song">
+        <li>4. Song Title - Swarg Ha Nava, Artist-</li>
+<img src="Swarg ha nava.jpeg" height="300" width="300">
+        <a href="https://www.bing.com/ck/a?!&&p=f5f0f6e68caa00073527c0622c8d4eb72b3e69ee1c71656fef15802c1976d778JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9U1dBUkdBK0hBK05BVkErQVJUSVNUK05BTStFJm1pZD0yOUI3QkY2Q0QwQ0NGM0ZFQ0NCMTI5QjdCRjZDRDBDQ0YzRkVDQ0IxJkZPUk09VklSRQ&ntb=1" target="_blank">Listen</a><br>
+        </div>
+        <div class="song">
+       <li>5. Song Title -As Ks Bolayach , Artist-Alok Rajwade</li>
+<img src="As kay bolyacha.jpeg" height="300" width="300">
+       <a href="https://www.youtube.com/watch?v=r8ZpJzXg8CY" target="_blank">Listen</a><br>
+</ul>
+        </div>
+    </div>
+    <h2>Trending Hindi Songs</h2>
+    <div class="song-list">
+        <div class="song">
+            <li>1. Song Title:pal pal dil ke pass,artist-Kishore Kumar</li>
+<img src="pal pal dil ke pass.jpeg" height="300" width="300">
+            <a href="https://www.youtube.com/watch?v=1XW49GYRtJ0" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>2. Song Title -o mahi, Artist-Arjit Singh</li>
+<img src="O mahi.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=o+mahi+link&&mid=476DC91F136E3A823741476DC91F136E3A823741&FORM=VCGVRP" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>3. Song Title - Yad Piya Ki Aane Lagi ,Artist-Neha Kakker</li>
+<img src="Yad piya ki aane lagi.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=693f87a36f06dda3d26d91f1d1fbf8011373a3146480c2a2c00b510baa25d714JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&psq=haravale+man+maze+sojg+link&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1lMm9LWmI2eVVnZw&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>4. Song Title - Tera Ban Jaunga, Artist-Tulsi Kumar</li>
+<img src="Tera ban jaunga.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=tera+ban+jaunga+lnk&&mid=545141F82C5C1A02A395545141F82C5C1A02A395&FORM=VAMGZC" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>5. Song Title -Kise Hua , Artist-Vishal Mishra</li>
+<img src="Kaise hua.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=053987c168fb47c6f08f1958ac460a9a1a4f09cf70411494128314448477f4e6JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9a2lhc2UraHVhK2xpbmsmbWlkPTlDRkUzOTYwNUNGNjJFRTQ2MEZFOUNGRTM5NjA1Q0Y2MkVFNDYwRkUmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a>
+        </div>
+    </div>
+    <h2>Trending English Songs</h2>
+    <div class="song-list">
+        <div class="song">
+            <li>1. Song Title:love me like you do,artist-Ellie Goulding</li>
+<img src="Love me like you do.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=love+me+like+you+do+artist&&mid=2BC971B97D7F7461E84B2BC971B97D7F7461E84B&FORM=VCGVRP" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>2. Song Title -Who Says, Artist-Selena Gomez & the Scene</li>
+<img src="Who says.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=f2c19176033145bcb868b89a50321a78373fc2377c3503a82361addc78c0fa72JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&psq=who+says++song+artist+name&u=a1aHR0cHM6Ly9mYXJvdXRtYWdhemluZS5jby51ay90aGUtMTAtbXVzaWNpYW5zLXdoby1pbnNwaXJlZC10aGUtYmVhdGxlcy8&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>3. Song Title -chip thrills,Artist-sia</li>
+<img src="Cheap thrills.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=80b070940e4c1f1de61b8e11d14d7b933c7bec16019f440526c889111754969eJmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9Y2hpcCt0aHJpbGxzK3NvbmcrYXJ0aXN0K25hbWUmbWlkPTJGQTlEMTRCODJENzI2OTYzOUUxMkZBOUQxNEI4MkQ3MjY5NjM5RTEmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>4. Song Title -I don't care, Artist-Ed Sheeran</li>
+<img src="I don't care.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=tera+ban+jaunga+lnk&&mid=545141F82C5C1A02A395545141F82C5C1A02A395&FORM=VAMGZC" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+            <li>5. Song Title -die with a smile, Artist-songwriters Lady Gaga and Bruno Mars</li>
+<img src="Die with a smile.jpeg" height="300" width="300">
+            <a href="https://www.bing.com/ck/a?!&&p=053987c168fb47c6f08f1958ac460a9a1a4f09cf70411494128314448477f4e6JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=0abbec78-f2f3-6f17-1289-f8bdf3416e7c&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9a2lhc2UraHVhK2xpbmsmbWlkPTlDRkUzOTYwNUNGNjJFRTQ2MEZFOUNGRTM5NjA1Q0Y2MkVFNDYwRkUmRk9STT1WSVJF&ntb=1" target="_blank">Listen</a>
+        </div>
+<h3>----**Top 10 Songs of ARIJIT SINGH**----</h3>
+    <h4>Click Here To Listen</h4>
+
+    <ul>
+        <li><img src="Kesariya.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=kesariya+song&&mid=55D5C5B2BE814BEBF9DE55D5C5B2BE814BEBF9DE&mcid=640F41E447494BEBA3C12531E3A94CF5&FORM=VCGVRP" target="_blank">KESARIYA</a></li>
+        <li><img src="Thodi jagah.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=THODI+JAGAH&&mid=F7C13098D479E7D5ED29F7C13098D479E7D5ED29&&mcid=EF0A793E95EF4848888EA49012ACBB1F&FORM=VRDGAR" target="_blank">THODI JAGAH</a></li>
+        <li><img src="Agar tum saath ho.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=agar+tum+saath+ho&&mid=8470A712CF94B4C8DA908470A712CF94B4C8DA90&mcid=0F3D09C6FCF8454995107255126B4732&FORM=VCGVRP" target="_blank">AGAR TUM SATH HO</a></li>
+        <li><img src="Tujhe kitna chahne lage.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=TUZE+KITNA+CHAHNE+LAGE&&mid=658FF546E43FEF233E9C658FF546E43FEF233E9C&&mcid=CE6CA87980E34E83B02737C9498045A2&FORM=VRDGAR" target="_blank">TUZE KITNA CHAHNE LAGE</a></li>
+        <li><img src="Chhod diya.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=CHOD+DIYA&&mid=21CA7B5C99E1F17ED51221CA7B5C99E1F17ED512&&mcid=8AE2D101B956429F9B3301B3E784012C&FORM=VRDGAR" target="_blank">CHOD DIYA</a></li>
+        <li><img src="Khairiyat.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=KHAIRYAT&&mid=7B8AFB68C6C70D7CF8987B8AFB68C6C70D7CF898&mcid=D4D13482842A4E1A8A8C6DE4DDC9147C&FORM=VCGVRP" target="_blank">KHAIRIYAT</a></li>
+        <li><img src="Humdard.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=HAM+DARD+SONG+&&mid=26FCD2C9A9BC0A6231D226FCD2C9A9BC0A6231D2&&mcid=31AC3CE782E441ABB612830C61D260DF&FORM=VRDGAR" target="_blank">HAMDARD</a></li>
+        <li><img src="Phir bhi tumko chaunga.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=phir+bhi+tumko+chahunga&&mid=576B21A0D9758361816C576B21A0D9758361816C&mcid=79DF7A01588749BAB97BB31A86EFFE34&FORM=VCGVRP" target="_blank">PHIR BHI TUMKO CHAHUNGA</a></li>
+        <li><img src="har kisi ko.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=har+kisi+ko+nahi+milta+song&&mid=606226E2CC82BE5C62C5606226E2CC82BE5C62C5&mcid=C39147F313FD4B71942DF9A3A57E6AA9&FORM=VCGVRP" target="_blank">HAR KISIKO KO</a></li>
+        <li><img src="O mahi.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=O+MAHI&&mid=476DC91F136E3A823741476DC91F136E3A823741&mcid=2014BC956DC043E2A558F3B1F6957FA4&FORM=VCGVRP" target="_blank">O MAHI</a></li>
+    </ul>
+    <h3>----**Top 10 Songs of LATA MANGESHKAR**----</h3>
+    <h4>Click Here To Listen</h4>
+    <ul>
+        <li><img src="Tujhe dekha to ye jana sanam.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=TUZE+DEKHA+TO+JANA+SANAM&&mid=8416D194656C88600B158416D194656C88600B15&mcid=7113F3A441A54AF39B3D8DDF640E640A&FORM=VCGVRP" target="_blank">TUZE DEKHA TO JANA SANAM </a></li>
+        <li><img src="Hoton mein aisi baat.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=decf88cb779d985f11dfdcb500beea1aa875fb97fe7f34e8e216556786fc5ccfJmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=12170e46-061a-6d27-046b-1bf507a86c18&psq=Hothon+Main+Aisi+Baat+from+Jewel+Thief&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1WQkoxT0EzcXpMZw&ntb=1" target="_blank">Hothon Main Aisi Baat from Jewel Thief</a></li>
+        <li><img src="Aaj Phir Jeene Ki Tamanna.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=Aaj+Phir+Jeene+Ki+Tamanna&&mid=B9F95DF254C93AEFA0CAB9F95DF254C93AEFA0CA&&mcid=8B99ED3D9D7741178573278C815A67B9&FORM=VRDGAR" target="_blank">Aaj Phir Jeene Ki Tamanna</a></li>
+        <li><img src="Piya Tose.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=Piya+Tose&&mid=6D1D4145A6D58D041C406D1D4145A6D58D041C40&&mcid=80CA671869A648BDB18A09234081BC9C&FORM=VRDGAR" target="_blank">Piya Tose</a></li>
+        <li><img src="Kora kagaz tha yeh mann mera.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=1a06fe840fd76874fc318ddbcec7f36930c58f9e535ead950cea1423b26fa4edJmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=12170e46-061a-6d27-046b-1bf507a86c18&psq=Kora+Kagaz+Tha+Yeh+Mann+Mera&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1qN1RNMmNjT0diVQ&ntb=1" target="_blank">Kora Kagaz Tha Yeh Mann Mera</a></li>
+        <li><img src="Mera saaya saath hoga.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=%3eMera+Saaya+Saath+Hoga&&mid=8B3E862257D1ED933C148B3E862257D1ED933C14&&mcid=43B6E02FDBBF41369366C9E32760A7E8&FORM=VRDGAR" target="_blank">Mera Saaya Saath Hoga</a></li>
+        <li><img src="Aap ki nazron ne samjha.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=Aap+Ki+Nazron+Ne+Samjha&&mid=D26868461B8D8B2BC1BAD26868461B8D8B2BC1BA&mcid=2C685F3A3F3440C39C7CB47DB6CF297F&FORM=VCGVRP" target="_blank">Aap Ki Nazron Ne Samjha</a></li>
+        <li><img src="Jiya jale.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=Jiya+Jale&&mid=A490FB56CB3073F8B460A490FB56CB3073F8B460&mcid=FC2F4A88A63046A0B5A4970530FDB4FB&FORM=VCGVRP" target="_blank">Jiya Jale</a></li>
+        <li><img src="Humein Aur Jeene Ki.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=4ff7482fce66de36784b3978b726aa669bce827dab3a9435d7d070e4f2156314JmltdHM9MTc0Mjg2MDgwMA&ptn=3&ver=2&hsh=4&fclid=12170e46-061a-6d27-046b-1bf507a86c18&psq=Humein+Aur+Jeene+Ki&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj16ZmY0RWowZ19aUQ&ntb=1" target="_blank">Humein Aur Jeene Ki</a></li>
+        <li><img src="Lag ja Gale.jpeg" height="300" width="300">
+<a href="https://www.bing.com/videos/riverview/relatedvideo?q=Lag+Ja+Gale&&mid=5C15F0E16E0DCDB7FAC35C15F0E16E0DCDB7FAC3&mcid=B68B09664125431C907B84A2C3EECAC2&FORM=VCGVRP" target="_blank">Lag Ja Gale</a></li>
+    </ul>
+    <h3>----**Top 10 Songs of KISHORE KUMAR**----</h3>
+    <h4>Click Here To Listen</h4>
+
+    <ul>
+        <li><img src="Mere Mehboob Qayamat Hogi.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=0443e2151292af134c9768223894c3da00e2283ba5f3bea8e3a8e0776843a8afJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9TWVyZStNZWhib29iK1FheWFtYXQrSG9naSZtaWQ9QkFENzE4OEI4NDA1MDBFNTIzOTZCQUQ3MTg4Qjg0MDUwMEU1MjM5NiZGT1JNPVZJUkU&ntb=1" target="_blank">Mere Mehboob Qayamat Hogi </a></li>
+        <li><img src="Yeh Raaten Yeh Mausam.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=d4b780b20e0039aed0359e2b784534c2d560ae04b519019457243c1937901de0JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=Yeh+Raaten+Yeh+Mausam&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj00SFJDNmM1LTJsUQ&ntb=1" target="_blank">Yeh Raaten Yeh Mausam </a></li>
+        <li><img src="O Mere Dil Ke Chain.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=0f0d152eb46c1d2212b8420aadefcc9f1c9b0031d94932e6650cb29b9370573cJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9TytNZXJlK0RpbCtLZStDaGFpbiYmbWlkPTg4MEQxNjk0QTZEQUIxMEIzNEZGODgwRDE2OTRBNkRBQjEwQjM0RkYmRk9STT1WQU1HWkM&ntb=1" target="_blank">O Mere Dil Ke Chain</a></li>
+        <li><img src="Yeh Shaam Mastani.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=1e529f75966f6d7ac0f00822fb15ecb0a4a12a99947f5930bb030ffb5f73b4ccJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=Yeh+Shaam+Mastani&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1sYmZXc0lwWHNDQQ&ntb=1" target="_blank"> Yeh Shaam Mastani </a></li>
+        <li><img src="Neele Neele Ambar.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=c30ea1b74f58d7751779219365a0a0a79d389c0b31645fc5591ddc3408d3271dJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9TmVlbGUrTmVlbGUrQW1iYXImbWlkPTczOUVCRTFCRTc4RDJBMzgyOUY4NzM5RUJFMUJFNzhEMkEzODI5RjgmRk9STT1WSVJF&ntb=1" target="_blank">Neele Neele Ambar</a></li>
+        <li><img src="Chhu Kar Mere Manko.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=6b04874896b3108fe760fdfc2dc070da6be121ada632a45a10cbafc38eae0089JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9Q2hodStLYXIrTWVyZStNYW5rbyZtaWQ9MTFFMTRDMkYxQkY0MEFCRDgyNjUxMUUxNEMyRjFCRjQwQUJEODI2NSZGT1JNPVZJUkU&ntb=1" target="_blank">Chhu Kar Mere Manko</a></li>
+        <li><img src="Pal Pal Dil Ke Paas Tum Rehti Ho.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=718228146ddcc7a99766545d0d5d738cab8ddc15982c3a7d1b222b014d04a364JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UGFsK1BhbCtEaWwrS2UrUGFhcytUdW0rUmVodGkrSG8mJm1pZD00QkYzMUZDQThEOTVFM0MwMTJGMDRCRjMxRkNBOEQ5NUUzQzAxMkYwJkZPUk09VkFNR1pD&ntb=1" target="_blank"> Pal Pal Dil Ke Paas Tum Rehti Ho</a></li>
+        <li><img src="Tu Tu Hai Wahi.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=19f4a972aee242e997bc318592a939fce8fe7d53a62ed8e5437368b2a377425cJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9VHUrVHUrSGFpK1dhaGkmJm1pZD01MEI3MTc1NDFDMDJENjQyNTdGMzUwQjcxNzU0MUMwMkQ2NDI1N0YzJkZPUk09VkFNR1pD&ntb=1" target="_blank">Tu Tu Hai Wahi </a></li>
+        <li><img src="Ek Ajnabee Haseena Se.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=a52cef62b39be96f98edd0a315d6994f144ee943774b3fb4de138d2ff7077ba3JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9RWsrQWpuYWJlZStIYXNlZW5hK1NlJm1pZD0xQjc4QkZGMTkwOUU4QjU4QjA2MDFCNzhCRkYxOTA5RThCNThCMDYwJkZPUk09VklSRQ&ntb=1" target="_blank">Ek Ajnabee Haseena Se</a></li>
+        <li><img src="Hum dono do premi.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=5b541d28b4575b1b75baeeb2441ab9f1c25fa93fe2642435645967826f141285JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=Hum+dono+do+premi&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1yUXZublI4RFM0aw&ntb=1" target="_blank"></a></li>
+<h3>------**Top 10 Popular songs**------</h3>
+<h4>Click Here To Listen</h4>
+<ul>
+<li><img src="Tauba Tauba.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=81808bfac77228dfb4fe82076b03dec4fda4b103f42340f1e91cc1c202566521JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9dGF1YmErdGF1YmErc29uZyYmbWlkPUVFMDBFNjk0RDRBNEM1RTNDQUIxRUUwMEU2OTRENEE0QzVFM0NBQjEmRk9STT1WQU1HWkM&ntb=1"target="_blank">Tauba Tauba</a></li>
+<li><img src="Ami je Tomar.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=3e2db943a2e17dd54bbecdd4e07ae253ed5b0c03a3ae136f9eed275b62deb47eJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9YW1pK2plK3RvbWFyKzMuMCYmbWlkPUUyRjRFRkFDRkQyRkM3QjczQzcyRTJGNEVGQUNGRDJGQzdCNzNDNzImRk9STT1WQU1HWkM&ntb=1"target="_blank">Ami je Tomar</a></li>
+<li><img src="Gulabi Saree.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=2d2faeb5a74f169983a50641f00cbd72048122129b2ad80b33c7eeb418e15183JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9R3VsYWJpK3NhcmVlK3NvbmcmJm1pZD1FNTQwMDFFQjU2NkFDMTg2RUQxOEU1NDAwMUVCNTY2QUMxODZFRDE4JkZPUk09VkFNR1pD&ntb=1"_blank">Gulabi Saree</a></li>
+<li><img src="Aayi Nahi.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=7012f637177742b4e411e3edbd994d901b0b9bdb3ea3f4a2c43c766a1d1d669eJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9QWF5aStOYWhpJiZtaWQ9RDAyRDZEM0E4NTMwMkUwRUExNUZEMDJENkQzQTg1MzAyRTBFQTE1RiZGT1JNPVZBTUdaQw&ntb=1"_blank">Aayi Nayi</a></li>
+<li><img src="Teri Baaton Mein Aisa Uljha Jiya.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=0b06d12b6317852d32e2313abc21622edf8bec697704c7c7116730f694823fcfJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9VGVyaStCYWF0b24rTWVpbitBaXNhK1VsamhhK0ppeWEmbWlkPTUxODQ0NDE2QkNEODFDNjgwQTU0NTE4NDQ0MTZCQ0Q4MUM2ODBBNTQmRk9STT1WSVJF&ntb=1"_blank">Teri Baaton me Aise uljha jiya</a></li>
+<li><img src="Tumse Pyaar Hai.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=003c4c3e8334f55416ce19513f539c91e0f28b180f1fceef9712aab6a41b1145JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9VHVtc2UrUHlhYXIrSGFpJm1pZD01RjdDRDBEQzQ1QTI0RkE2MDZFNTVGN0NEMERDNDVBMjRGQTYwNkU1JkZPUk09VklSRQ&ntb=1"target="_blank">Tumse Pyaar Hai</a></li>
+<li><img src="Chura Liya.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=608ea382e69189b6aad3ab600cc5684dbda0f5960a99fe2f2fe72576853f2de7JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9Q2h1cmErTGl5YSYmbWlkPTdEREVFMTk4NkM2OEVGMzFCQTZFN0RERUUxOTg2QzY4RUYzMUJBNkUmRk9STT1WQU1HWkM&ntb=1"target="_blank">Chura Liya</a></li>
+<li><img src="Jhoome jo Pathaan.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=ff843fc0c83e6ba6f14c375b4c0ab4f2737047b8db46bf2fab727ed4f4776d2aJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9Smhvb21lK2pvK3BhdGhhYW4mJm1pZD0zNTEzMzdEOEZCOTcxNTEwNzExNzM1MTMzN0Q4RkI5NzE1MTA3MTE3JkZPUk09VkFNR1pD&ntb=1"target="_blank">Jhoome jo Pathaan</a></li>
+<li><img src="Baarish.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=23b265a23bc3044f11f2834b6d2c6052c321fa541af6e5bf2568dd0a611f7f27JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9QmFhcmlzaCZxcz1uJnNwPS0xJmdoYz0xJmxxPTAmcHE9YmFhcmlzaCZzYz0xMi03JnNrPSZjdmlkPUREOUEwNDAwMTZBMjRDRjVCOTJCMjgzQkMyQjgzREZEJmFqYXhub3JlY3NzPTEmc2lkPTA3QTA5OTkzRkM4ODZCQkMxMTEzOEM1RUZENkY2QUFFJmpzb25jYmlkPTQmYWpheHN5ZGNvbnY9MSZydT0lMmZzZWFyY2glM2ZxJTNkQmFhcmlzaCUyNnFzJTNkbiUyNmZvcm0lM2RRQlJFJTI2c3AlM2QtMSUyNmdoYyUzZDElMjZscSUzZDAlMjZwcSUzZGJhYXJpc2glMjZzYyUzZDEyLTclMjZzayUzZCUyNmN2aWQlM2RERDlBMDQwMDE2QTI0Q0Y1QjkyQjI4M0JDMkI4M0RGRCUyNmFqYXhub3JlY3NzJTNkMSUyNnNpZCUzZDA3QTA5OTkzRkM4ODZCQkMxMTEzOEM1RUZENkY2QUFFJTI2Zm9ybWF0JTNkc25yanNvbiUyNmpzb25jYmlkJTNkNCUyNmFqYXhzeWRjb252JTNkMSZtbXNjbj12d3JjJm1pZD04QTQ2MkQ1Njc3Rjk0MEY2QzUxRjhBNDYyRDU2NzdGOTQwRjZDNTFGJkZPUk09V1JWT1JD&ntb=1"target="_blank">Baarish</a></li>
+<li><img src="Love u Zindagi.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=7b6f3719b695cb07e19705c683b1707260bc2501c01fd33655b54867822285f6JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9TG92ZSt5b3UrWmluZGFnaSYmbWlkPTM3NTBGNzZBNkMyQjBBNjkxMjgyMzc1MEY3NkE2QzJCMEE2OTEyODImRk9STT1WQU1HWkM&ntb=1"target="_blank">Love U Zindagi</a></li>
+</ul>
+<h4>-----**Sonu Nigam Playlist**------</h4>
+<ul>
+<li><img src="Soniye ve Soniye.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=54c7ad91d83eaccd4bff185c798c56f4d05c6adbda78f8d4085f24644ecf979bJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9U29uaXlhK3ZlJm1pZD04NEM5NDc4MUE5QkU4RUQyRjlBODg0Qzk0NzgxQTlCRThFRDJGOUE4JkZPUk09VklSRQ&ntb=1"target="_blank">Soniye Ve Soniye</a></li>
+<li><img src="Kal Ho Na Ho.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=144b7e5b08c0029edd7ee946a68df38ff1bc49c687491f74fde9576a42e5f4ffJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9S2FsK2hvK25hK2hvJm1pZD03M0Q2RTExOTg3NEI2MzE3NjZFMjczRDZFMTE5ODc0QjYzMTc2NkUyJkZPUk09VklSRQ&ntb=1"target="_blank">Kal Ho Na Ho</a><li>
+<li><img src="Abhi Mujh Mein Kahi.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=f7e53516f677ca8505ffc2a6ce3710938b44df0269d76daeff4a64c86395da9cJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9QWJoaSttdWpoK21laW4ra2FoaSZtaWQ9MTRDQzg3QUM3MEM3NkU3MzM1MkYxNENDODdBQzcwQzc2RTczMzUyRiZGT1JNPVZJUkU&ntb=1"target="_blank">Abhi Mujh Mein Kahi</a></li>
+<li><img src="Suraj Hua Maddham.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=bdf0238b83848b50694b3d31db7899a15c062e59ce218a6fe7df6cc3531e5bc2JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9U3VyYWoraHVhK21hZGh5YW0mbWlkPUQxOTJCRTM5MkI1OUQzRjJCOUM0RDE5MkJFMzkyQjU5RDNGMkI5QzQmRk9STT1WSVJF&ntb=1"target="_blank">Suraj Hua Maddham</a></li>
+<li><img src="Main Agar Kahoon.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=863d3b960d1ce52091238413c113cbd905be434a0fa73824bbe1648b13640cc1JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9bWFpbithZ2FyK2thaG9vbiYmbWlkPUI1OTU3OUM1MzMzRDA5MTgyMkY3QjU5NTc5QzUzMzNEMDkxODIyRjcmRk9STT1WQU1HWkM&ntb=1"target="_blank">Main Agar Kahoon</a></li>
+<li><img src="Tumse milke dil ka hai jo haal.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=3458a137b701496a2bd27423cc77c15dac4377c660ad3b55008d57efc4e43861JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9VHVtc2UrbWlsa2UrZGlsK2thKyYmbWlkPTI1MDk3ODM4OTE3RDBEOEE3QkFFMjUwOTc4Mzg5MTdEMEQ4QTdCQUUmRk9STT1WQU1HWkM&ntb=1"target="_blank">Tumse milke Dil ka hai jo haal</a></li>
+<li><img src="Dil Dooba.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=59bdc5f358206a3589981f4413d822ea696ff33a3dfd89f0ad7676f7738f2323JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9RGlsK2Rvb2JhJiZtaWQ9RUZGQTVBRTYzMTE5QjUzMzQ2ODZFRkZBNUFFNjMxMTlCNTMzNDY4NiZGT1JNPVZBTUdaQw&ntb=1"target="_blank">Dil Dooba</a></li>
+<li><img src="Yeh Dil Deewana.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=f51775f33a2328d91949a2f3d0e10dfde7bcec840bf637fbd193973616c41a52JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9WWVoK2RpbCtkZWV3YW5hJiZtaWQ9NDI1Nzg2NzUzOENBRDdDNTY0OEU0MjU3ODY3NTM4Q0FEN0M1NjQ4RSZGT1JNPVZBTUdaQw&ntb=1"target="_blank">Yeh Dil Deewana</a></li>
+<li><img src="Main Hoon Na.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=ac5b75986b49f3b9db4a161f595b849f64d55cd347e9c30b59f8c268e8c7c00dJmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9TWFpbitIb29uK05hK3NvbmcmbWlkPTlCMTZENzRENUNGRUU0MzMxOTQzOUIxNkQ3NEQ1Q0ZFRTQzMzE5NDMmRk9STT1WSVJF&ntb=1"target"_blank">Main Hoon Na</a></li>
+<li><img src="Pyaar ki ek kahani.jpeg" height="300" width="300">
+<a href="https://www.bing.com/ck/a?!&&p=6ef1f1d46e5e5adeffa55ac8e8f9a315994ab89bfafcb069504641f5f23be659JmltdHM9MTc0NDU4ODgwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9UHlhYXIra2krZWsrK2thaGFuaStzb25nJiZtaWQ9NDIzMkRBNDI3MDQ0ODU4OUNFMEI0MjMyREE0MjcwNDQ4NTg5Q0UwQiZGT1JNPVZBTUdaQw&ntb=1"target="_blank">Pyaar ki ek kahani</a></li>
 </body>
 </html>
 
