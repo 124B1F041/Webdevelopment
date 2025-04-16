@@ -1245,7 +1245,67 @@ footer p {
   </div>
 </body>
 </html>
-
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #ff9a9e, #fad0c4, #fad0c4);
+    min-height: 100vh;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #000; /* changed from #fff to black */
+    margin-bottom: 40px;
+  }
+  
+  .song-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .song {
+    display: flex;
+    align-items: center;
+    background-color: #ffffffcc;
+    border-radius: 15px;
+    padding: 15px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .song img {
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .song-info {
+    margin-left: 15px;
+  }
+  
+  .song-info .title {
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0;
+    color: #333;
+  }
+  
+  .song-info .artist {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #777;
+  }
+  
+  
 
 
 
