@@ -1121,3 +1121,132 @@ footer p {
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trending Songs UK</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Trending Songs in UK</h1>
+    <div class="song-list">
+
+      <div class="song">
+        <img src="https://i.ytimg.com/vi/ekr2nIex040/hqdefault.jpg" alt="APT Cover">
+        <div class="song-info">
+          <p class="title">APT</p>
+          <p class="artist">ROSÉ, Bruno Mars</p>
+          <a href="https://youtu.be/ekr2nIex040?si=CCn03jNrL_RJ5oYO" target="_blank" class="btn">
+            <i class="fab fa-youtube"></i> Watch
+          </a>
+        </div>
+      </div>
+
+      <div class="song">
+        <img src="https://i.ytimg.com/vi/k-k2_Liofy8/hqdefault.jpg" alt="Messy Cover">
+        <div class="song-info">
+          <p class="title">Messy</p>
+          <p class="artist">Lola Young</p>
+          <a href="https://youtu.be/k-k2_Liofy8?si=fMG0q4osfT6bmUrk" target="_blank" class="btn">
+            <i class="fab fa-youtube"></i> Watch
+          </a>
+        </div>
+      </div>
+
+      <div class="song">
+        <img src="https://i.ytimg.com/vi/H58vbez_m4E/hqdefault.jpg" alt="Not Like Us Cover">
+        <div class="song-info">
+          <p class="title">Not Like Us</p>
+          <p class="artist">Kendrick Lamar</p>
+          <a href="https://youtu.be/H58vbez_m4E?si=CBsk-pc5wvHIxf6g" target="_blank" class="btn">
+            <i class="fab fa-youtube"></i> Watch
+          </a>
+        </div>
+      </div>
+
+      <div class="song">
+        <img src="https://i.ytimg.com/vi/u2ah9tWTkmk/hqdefault.jpg" alt="Ordinary Cover">
+        <div class="song-info">
+          <p class="title">Ordinary</p>
+          <p class="artist">Alex Warren</p>
+          <a href="https://youtu.be/u2ah9tWTkmk?si=tR5A4x0j1As8uNSf" target="_blank" class="btn">
+            <i class="fab fa-youtube"></i> Watch
+          </a>
+        </div>
+      </div>
+
+      <div class="song">
+        <img src="https://i.ytimg.com/vi/GR3Liudev18/hqdefault.jpg" alt="Pink Pony Club Cover">
+        <div class="song-info">
+          <p class="title">Pink Pony Club</p>
+          <p class="artist">Chappell Roan</p>
+          <a href="https://youtu.be/GR3Liudev18?si=Q__SpAIaNO7ohXFU" target="_blank" class="btn">
+            <i class="fab fa-youtube"></i> Watch
+          </a>
+        </div>
+      </div>
+
+      <h1>Trending Songs in Japan</h1>
+<div class="song-list">
+
+  <div class="song">
+    <img src="https://tse2.mm.bing.net/th?id=OIP.H89cMQprxzQSZHPUVCHB3AHaLH&pid=Api" alt="W/X/Y Cover">
+    <div class="song-info">
+      <p class="title">W / X / Y</p>
+      <p class="artist">Tani Yuuki</p>
+      <a href="https://youtu.be/mp2-w15SXms?si=Y4Zx0bMu50J1xmdh" target="_blank" class="btn">Watch</a>
+    </div>
+  </div>
+
+  <div class="song">
+    <img src="https://www.jpopasia.com/i1/news/25010-tnjnylrlqn.jpg" alt="Dried Flower Cover">
+    <div class="song-info">
+      <p class="title">Dried Flower</p>
+      <p class="artist">Yuuri</p>
+      <a href="https://youtu.be/9W6m-yU_aX8?si=AwpmAitw1HTPZEnD" target="_blank" class="btn">Watch</a>
+    </div>
+  </div>
+
+  <div class="song">
+    <img src="https://i.pinimg.com/originals/53/89/4b/53894b50c9b58d3d3022a2cddbd6c7e9.jpg" alt="Nanndemonaiyo Cover">
+    <div class="song-info">
+      <p class="title">Nanndemonaiyo</p>
+      <p class="artist">Macaroni Empitsu</p>
+      <a href="https://youtu.be/7E5eCUaIkPo?si=CaYjz5WW0hv1yYV9" target="_blank" class="btn">Watch</a>
+    </div>
+  </div>
+
+  <div class="song">
+    <img src="https://i.pinimg.com/originals/19/d3/71/19d371230ac585c8d3d1664e1b2ac9b5.jpg" alt="Cinderella Boy Cover">
+    <div class="song-info">
+      <p class="title">Cinderella Boy</p>
+      <p class="artist">Saucy Dog</p>
+      <a href="https://youtu.be/IVbY5edMfCA?si=8PyMeE7EcR_1Cs55" target="_blank" class="btn">Watch</a>
+    </div>
+  </div>
+
+  <div class="song">
+    <img src="https://i.ytimg.com/vi/0yW7w8F2TVA/hqdefault.jpg" alt="Kaiju no Hanauta Cover">
+    <div class="song-info">
+      <p class="title">Kaiju no Hanauta</p>
+      <p class="artist">Vaundy</p>
+      <a href="https://youtu.be/UM9XNpgrqVk?si=9lasL5ryRLLrKmom" target="_blank" class="btn">Watch</a>
+    </div>
+  </div>
+
+</div>
+
+  
+
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+
