@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -626,7 +625,7 @@ footer p {
                 
             </ul>
         </div>
-    
+
      <!-- Neha Kakkar Section -->
      <div class="singer-section">
         <img src="data:image/jpeg;base64,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" alt="Arijit Singh">
@@ -644,6 +643,7 @@ footer p {
             <li><a class="listen-btn" href="https://www.google.com/search?q=mahi+ve%27&client=ubuntu&sca_esv=926e7e4e58f3fc80&channel=fs&udm=7&biw=1528&bih=788&ei=vhf-Z8qcCtDgseMPzcykwQY&ved=0ahUKEwjK86WuztmMAxVQcGwGHU0mKWgQ4dUDCBA&uact=5&oq=mahi+ve%27&gs_lp=EhZnd3Mtd2l6LW1vZGVsZXNzLXZpZGVvIghtYWhpIHZlJzIIEAAYFhgKGB4yBhAAGBYYHjIIEAAYFhgKGB4yBhAAGBYYHjIIEAAYFhgKGB4yCBAAGBYYChgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IiiNQlQhY2xdwAXgAkAEAmAGoAaABvQiqAQMwLji4AQPIAQD4AQGYAgigAuIIqAIAwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAggQABiABBixA8ICCxAAGIAEGJECGIoFwgINEAAYgAQYsQMYQxiKBcICCxAAGIAEGLEDGIoFwgIKEAAYgAQYsQMYCsICBxAAGIAEGAqYAwKSBwMwLjigB4cysgcDMC44uAfiCA&sclient=gws-wiz-modeless-video#" target="_blank">Listen: Mahhi ve</a></li>
         </ul>
     </div>
+
     <!-- Sonu Nigam Section -->
     <div class="singer-section">
         <img src="data:image/jpeg;base64,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" alt="Arijit Singh">
@@ -662,7 +662,7 @@ footer p {
             
         </ul>
     </div>
-    </div>
+
 
 </body>
 <!DOCTYPE html>
@@ -918,7 +918,7 @@ footer p {
     <img src="https://tse1.mm.bing.net/th?&id=OVP.QGXTdtmAWrVSIiE9jSoowQHgFo&w=528&h=298&c=7&pid=1.7&rs=1">
     <a href="https://www.bing.com/ck/a?!&&p=0a7beacaec3fec6c8a017480f47628455968c3e7e1c1deb0791d5e8204df5d29JmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9Smhvb3QrQm9sZStLYXV2YStLYXRlJm1pZD03MDVDOTY1NTdDNUJGMjk3NTkxNDcwNUM5NjU1N0M1QkYyOTc1OTE0JkZPUk09VklSRQ&ntb=1" target="_blank">Listen</a>
     </div>
-    
+    </div>
         <h2>Old 60's Bollywood Songs</h2>
         <div class="song-list">
         <div class="song">
@@ -970,6 +970,7 @@ footer p {
         <span>10. Song Title:Ajeeb Dastan hai Yeh</span>
         <img src="https://th.bing.com/th?&id=OVP.JU6iR5Z9L1kXTubhKqCBxQHgFo&w=400&h=225&c=7&pid=2.1&rs=1">
         <a href="https://www.bing.com/videos/riverview/relatedvideo?q=ajeeb+dastan+hai+yeh&&mid=CBA703EB563BFA90AF06CBA703EB563BFA90AF06&FORM=VCGVRP" target="_blank">Listen</a>
+        </div>
         </div>
         </body>
 <!DOCTYPE html>
@@ -1144,7 +1145,7 @@ footer p {
         <a href="https://www.bing.com/ck/a?!&&p=05b48b7655ccd1ba48bcac02c87b91e6a60e8d0583c42865b947fefd0efe95aeJmltdHM9MTc0NDUwMjQwMA&ptn=3&ver=2&hsh=4&fclid=30c88cc0-a672-6fdd-00d3-99bda7bb6e8d&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9aGlwcytkb24lMjd0K2xpZSYmbWlkPUExQjQ3RkNBMTY2RUMwRjBCQzE4QTFCNDdGQ0ExNjZFQzBGMEJDMTgmbWNpZD02OTIzRUQzMDlBNjI0NzY2QkYyMTc0MUVEMEIxOTM1NyZGT1JNPVZBTUdaQw&ntb=1"target="blank">Listen</a>
         </div>
     </div>
-
+</div>
 </body>
 </html>
 
@@ -1372,7 +1373,7 @@ footer p {
   
     </div>
   </div>
-  
+  </div>
 
                 <h1>Top 5 Trending Songs in Romania (April 2025)</h1>
                 <div class="song-list">
@@ -1431,7 +1432,8 @@ footer p {
                       </a>
                     </div>
                   </div>
-                  
+                  </div>
+                  </div>
                   <div class="container">
                     <h1>Top 5 Trending Songs in South Korea (April 2025)</h1>
                     <div class="song-list">
@@ -1480,6 +1482,8 @@ footer p {
                           <a href="https://youtu.be/r9AEGPB6qIU?si=28l6BF_KoSsD1bmi" target="_blank" class="btn">Watch</a>
 
     </div>
+  </div>
+  </div>
   </div>
   <!DOCTYPE html>
 <html>
@@ -1552,59 +1556,131 @@ body {
 </style>
 </head>
 
-<h2>Cartoon Songs</h2>
- <div class="song-list">
-<div class="song">
-<span>1. Song Title: Zindagi Savoor Do</span>
-<img src="https://th.bing.com/th?&id=OVP._RoEg-UUGbxF_US5eBwvLQHgFo&w=168&h=95&c=7&pid=1.7&rs=1">
-<a href="https://youtu.be/uEtNdE13fmo" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>2. Song Title:Chhota Bheem</span>
-<img src="https://th.bing.com/th?&id=OVP.KCOoawf2YICqq1W1OF9DWAHgFo&w=424&h=238&c=7&pid=2.1&rs=1">
-<a href="https://www.bing.com/videos/riverview/relatedvideo?q=chhota+bheem+song&&mid=261EDDE3587E58D61C32261EDDE3587E58D61C32&FORM=VCGVRP" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>3. Song Title: Nani Teri Morni ko</span>
-<img src="https://th.bing.com/th/id/OVP.Ot01c3bQYkitxBXwLMbiOwIAEg?w=424&h=238&c=7&rs=1&qlt=90&o=6&pid=1.7">
-<a href="https://www.bing.com/ck/a?!&&p=3cb4ef42fe3085066d1fb5b7ec2f0f8096d7ba3f7a11bdad12856fcf4ca67e89JmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=nani+teri+morni+ko+mor+le+gaye&u=a1aHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3g4ZzFsNjU&ntb=1" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>4. Song Title:AA ha Tamatar</span>
-<img src="https://th.bing.com/th/id/OVP.2EiOKht2cSSrwV--p6FL7gEsDh?w=424&h=238&c=7&rs=1&qlt=90&o=6&pid=1.7">
-<a href="https://www.bing.com/ck/a?!&&p=46cdf9c0dc5b668a915fcfb717d07e970676782090c3dc06966475ede4fa204cJmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9YWFoYSt0YW1hdGFyK2JhZGErbWF6ZWRhciYmbWlkPUE1RTEwMzhDQjg5NUYwQkNGMDQ4QTVFMTAzOENCODk1RjBCQ0YwNDgmRk9STT1WQU1HWkM&ntb=1" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>5. Song Title:Ninja Hattori</span>
-<img src="https://th.bing.com/th?&id=OVP.lU7nCN3gBJ9gHwVcOL4WLAEsDh&w=272&h=152&c=7&pid=2.1&rs=1">
-<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=ninja+hattori+hindi+song&&mid=3EAB2FED173F8124D03C3EAB2FED173F8124D03C&&FORM=VRDGAR" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>6. Song Title: Pokemon</span>
-<img src="https://tse4.mm.bing.net/th?q=Pokemon+Hindi+Theme+Song+Lyrics&pid=2.5&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=3&w=120&h=60&c=7">
-<a href="https://youtu.be/0Ur6PJhqJ9A" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>7. Song Title: Tom & Jerry</span>
-<img src="https://th.bing.com/th/id/OVP.pD19r9uQ7T3QY07JY11j6QHgFo?w=424&h=238&c=7&rs=1&qlt=90&pid=2.1">
-<a href="https://www.bing.com/videos/riverview/relatedvideo?q=tom+%26+jerry&&mid=9ED24D47B4992B3ED5B69ED24D47B4992B3ED5B6&FORM=VCGVRP" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>8. Song Title:Lakdi ki kathi</span>
-<img src="https://th.bing.com/th?&id=OVP.8edzgDqKJ5NQI5pmHGEYTwHgFo&w=272&h=152&c=7&pid=2.1&rs=1">
-<a href="https://www.bing.com/ck/a?!&&p=a6e85e00b084610541e5f0fd0e59ba3d470dfcee71b29405557718213c64897bJmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=Hindi+cartoons+songs+&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zYkxmemdaLXdPOA&ntb=1" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>9. Song Title: Akkad bakad</span>
-<img src="https://th.bing.com/th/id/OVP.8MhxA58vykoqFjVBmcMvdwHgFo?w=243&h=136&c=7&rs=1&qlt=90&o=5&pid=2.1">
-<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=Hindi+cartoons+songs+&&mid=6E698A78662DA6286A426E698A78662DA6286A42&&FORM=VRDGAR" target="_blank">Listen</a>
-</div>
-<div class="song">
-<span>10. Song Title: Shin chan</span>
-<img src="https://th.bing.com/th?&id=OVP._2liiaFYXnpWBGCBRbXWaAEsDh&w=272&h=152&c=7&pid=2.1&rs=1">
-<a href="https://www.bing.com/videos/riverview/relatedvideo?&q=shinchan+song+in+hindi&&mid=FFE0A0724D841B31A392FFE0A0724D841B31A392&&FORM=VRDGAR" target="_blank">Listen</a>
-</div>
-</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    .song-list {
+      display: inline-block;
+      text-align: left;
+    }
+    .song {
+      margin: 20px 0;
+    }
+    .song img {
+      display: block;
+      margin: 10px auto;
+    }
+    .song a {
+      display: block;
+      text-align: center;
+      margin-top: 5px;
+      text-decoration: none;
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <style>
+        body {
+          text-align: center;
+          font-family: Arial, sans-serif;
+        }
+        .song-list {
+          width: 1000px;
+          margin: 0 auto;
+          text-align: left;
+        }
+        .song {
+          margin: 20px 0;
+          border-bottom: 1px solid #ddd;
+          padding-bottom: 15px;
+        }
+        .song img {
+          display: block;
+          margin: 10px 0;
+          max-width: 100%;
+          height: auto;
+        }
+        .song a {
+          display: inline-block;
+          margin-top: 5px;
+          text-decoration: none;
+          color: blue;
+          font-weight: bold;
+        }
+      </style>
+    </head>
+    <body>
+    
+      <h2>Cartoon Songs</h2>
+      <div class="song-list">
+        <!-- Your song divs remain unchanged below -->
+        <div class="song">
+          <span>1. Song Title: Zindagi Savoor Do</span>
+          <img src="https://th.bing.com/th?&id=OVP._RoEg-UUGbxF_US5eBwvLQHgFo&w=168&h=95&c=7&pid=1.7&rs=1">
+          <a href="https://youtu.be/uEtNdE13fmo" target="_blank">Listen</a>
+        </div>
+        <div class="song">
+          <span>2. Song Title: Chhota Bheem</span>
+          <img src="https://th.bing.com/th?&id=OVP.KCOoawf2YICqq1W1OF9DWAHgFo&w=424&h=238&c=7&pid=2.1&rs=1">
+          <a href="https://www.bing.com/videos/riverview/relatedvideo?q=chhota+bheem+song&&mid=261EDDE3587E58D61C32261EDDE3587E58D61C32&FORM=VCGVRP" target="_blank">Listen</a>
+        </div>
+        <!-- ... (continue the rest as before) ... -->
+        <div class="song">
+            <span>3. Song Title: Nani Teri Morni ko</span>
+            <img src="https://th.bing.com/th/id/OVP.Ot01c3bQYkitxBXwLMbiOwIAEg?w=424&h=238&c=7&rs=1&qlt=90&o=6&pid=1.7">
+            <a href="https://www.bing.com/ck/a?!&&p=3cb4ef42fe3085066d1fb5b7ec2f0f8096d7ba3f7a11bdad12856fcf4ca67e89JmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=nani+teri+morni+ko+mor+le+gaye&u=a1aHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3g4ZzFsNjU&ntb=1" target="_blank">Listen</a>
+          </div>
+          <div class="song">
+            <span>4. Song Title: AA ha Tamatar</span>
+            <img src="https://th.bing.com/th/id/OVP.2EiOKht2cSSrwV--p6FL7gEsDh?w=424&h=238&c=7&rs=1&qlt=90&o=6&pid=1.7">
+            <a href="https://www.bing.com/ck/a?!&&p=46cdf9c0dc5b668a915fcfb717d07e970676782090c3dc06966475ede4fa204cJmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9YWFoYSt0YW1hdGFyK2JhZGErbWF6ZWRhciYmbWlkPUE1RTEwMzhDQjg5NUYwQkNGMDQ4QTVFMTAzOENCODk1RjBCQ0YwNDgmRk9STT1WQU1HWkM&ntb=1" target="_blank">Listen</a>
+          </div>
+          <div class="song">
+            <span>5. Song Title: Ninja Hattori</span>
+            <img src="https://th.bing.com/th?&id=OVP.lU7nCN3gBJ9gHwVcOL4WLAEsDh&w=272&h=152&c=7&pid=2.1&rs=1">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=ninja+hattori+hindi+song&&mid=3EAB2FED173F8124D03C3EAB2FED173F8124D03C&&FORM=VRDGAR" target="_blank">Listen</a>
+          </div>
+          <div class="song">
+            <span>6. Song Title: Pokemon</span>
+            <img src="https://tse4.mm.bing.net/th?q=Pokemon+Hindi+Theme+Song+Lyrics&pid=2.5&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=3&w=120&h=60&c=7">
+            <a href="https://youtu.be/0Ur6PJhqJ9A" target="_blank">Listen</a>
+          </div>
+          <div class="song">
+            <span>7. Song Title: Tom & Jerry</span>
+            <img src="https://th.bing.com/th/id/OVP.pD19r9uQ7T3QY07JY11j6QHgFo?w=424&h=238&c=7&rs=1&qlt=90&pid=2.1">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?q=tom+%26+jerry&&mid=9ED24D47B4992B3ED5B69ED24D47B4992B3ED5B6&FORM=VCGVRP" target="_blank">Listen</a>
+          </div>
+          <div class="song">
+            <span>8. Song Title: Lakdi ki kathi</span>
+            <img src="https://th.bing.com/th?&id=OVP.8edzgDqKJ5NQI5pmHGEYTwHgFo&w=272&h=152&c=7&pid=2.1&rs=1">
+            <a href="https://www.bing.com/ck/a?!&&p=a6e85e00b084610541e5f0fd0e59ba3d470dfcee71b29405557718213c64897bJmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=28f43514-a44d-63f4-2a95-2799a5d662b8&psq=Hindi+cartoons+songs+&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zYkxmemdaLXdPOA&ntb=1" target="_blank">Listen</a>
+          </div>
+          <div class="song">
+            <span>9. Song Title: Akkad bakad</span>
+            <img src="https://th.bing.com/th/id/OVP.8MhxA58vykoqFjVBmcMvdwHgFo?w=243&h=136&c=7&rs=1&qlt=90&o=5&pid=2.1">
+            <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=Hindi+cartoons+songs+&&mid=6E698A78662DA6286A426E698A78662DA6286A42&&FORM=VRDGAR" target="_blank">Listen</a>
+          </div>
+        <div class="song">
+          <span>10. Song Title: Shin chan</span>
+          <img src="https://th.bing.com/th?&id=OVP._2liiaFYXnpWBGCBRbXWaAEsDh&w=272&h=152&c=7&pid=2.1&rs=1">
+          <a href="https://www.bing.com/videos/riverview/relatedvideo?&q=shinchan+song+in+hindi&&mid=FFE0A0724D841B31A392FFE0A0724D841B31A392&&FORM=VRDGAR" target="_blank">Listen</a>
+        </div>
+      </div>
+    </div>
+    </body>
+    </html>
+    
+
 <br>
 <!DOCTYPE html>
 <html lang="en">
@@ -1784,3 +1860,6 @@ body {
           
       
          
+
+            
+           
