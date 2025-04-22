@@ -1272,57 +1272,108 @@ footer p {
       </div>
 
     
-                  <h1>Top 5 Trending Songs in Germany (April 2025)</h1>
-<div class="song-list">
-
-<div class="song">
-<img src="https://i.ytimg.com/vi/ekr2nIex040/hqdefault.jpg" alt="APT Cover" />
-<div class="song-info">
-<p class="title">APT</p>
-<p class="artist">ROSÉ & Bruno Mars</p>
-<a href="https://youtu.be/ekr2nIex040" target="_blank" class="btn">Watch</a>
-</div>
-</div>
-
-<div class="song">
-<img src="https://i.ytimg.com/vi/kPa7bsKwL-c/hqdefault.jpg" alt="Die With A Smile Cover" />
-<div class="song-info">
-<p class="title">Die With A Smile</p>
-<p class="artist">Lady Gaga & Bruno Mars</p>
-<a href="https://youtu.be/kPa7bsKwL-c" target="_blank" class="btn">Watch</a>
-</div>
-</div>
-
-<div class="song">
-<img src="https://i.ytimg.com/vi/M0_z5WmMV-c/hqdefault.jpg" alt="Tau Mich Auf Cover" />
-<div class="song-info">
-<p class="title">Tau Mich Auf</p>
-<p class="artist">Zartmann</p>
-<a href="https://youtu.be/M0_z5WmMV-c" target="_blank" class="btn">Watch</a>
-</div>
-</div>
-
-<div class="song">
-<img src="https://i.ytimg.com/vi/MhARmC7cl6g/hqdefault.jpg" alt="Unsicher Cover" />
-<div class="song-info">
-<p class="title">Unsicher</p>
-<p class="artist">Nina Chuba</p>
-<a href="https://youtu.be/MhARmC7cl6g" target="_blank" class="btn">Watch</a>
-</div>
-</div>
-
-<div class="song">
-<img src="https://i.ytimg.com/vi/og9xn457zPw/hqdefault.jpg" alt="Plug Cover" />
-<div class="song-info">
-<p class="title">Plug</p>
-<p class="artist">Talha Anjum</p>
-<a href="https://youtu.be/og9xn457zPw" target="_blank" class="btn">Watch</a>
-</div>
-</div>
-
-</div>
-
-</div>
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <style>
+          .song-list {
+            width: 1000px;
+            margin: 0 auto;
+          }
+          .song {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 15px;
+          }
+          .song img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            margin-right: 20px;
+            border-radius: 10px;
+          }
+          .song-info {
+            flex: 1;
+          }
+          .title {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin: 5px 0;
+          }
+          .artist {
+            font-size: 1.2em;
+            color: #555;
+            margin: 5px 0;
+          }
+          .btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 8px 15px;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+          }
+        </style>
+      </head>
+      <body>
+      
+      <h1>Top 5 Trending Songs in Germany (April 2025)</h1>
+      <div class="song-list">
+      
+        <div class="song">
+          <img src="https://i.ytimg.com/vi/ekr2nIex040/hqdefault.jpg" alt="APT Cover" />
+          <div class="song-info">
+            <p class="title">APT</p>
+            <p class="artist">ROSÉ & Bruno Mars</p>
+            <a href="https://youtu.be/ekr2nIex040" target="_blank" class="btn">Watch</a>
+          </div>
+        </div>
+      
+        <div class="song">
+          <img src="https://i.ytimg.com/vi/kPa7bsKwL-c/hqdefault.jpg" alt="Die With A Smile Cover" />
+          <div class="song-info">
+            <p class="title">Die With A Smile</p>
+            <p class="artist">Lady Gaga & Bruno Mars</p>
+            <a href="https://youtu.be/kPa7bsKwL-c" target="_blank" class="btn">Watch</a>
+          </div>
+        </div>
+      
+        <div class="song">
+          <img src="https://i.ytimg.com/vi/M0_z5WmMV-c/hqdefault.jpg" alt="Tau Mich Auf Cover" />
+          <div class="song-info">
+            <p class="title">Tau Mich Auf</p>
+            <p class="artist">Zartmann</p>
+            <a href="https://youtu.be/M0_z5WmMV-c" target="_blank" class="btn">Watch</a>
+          </div>
+        </div>
+      
+        <div class="song">
+          <img src="https://i.ytimg.com/vi/MhARmC7cl6g/hqdefault.jpg" alt="Unsicher Cover" />
+          <div class="song-info">
+            <p class="title">Unsicher</p>
+            <p class="artist">Nina Chuba</p>
+            <a href="https://youtu.be/MhARmC7cl6g" target="_blank" class="btn">Watch</a>
+          </div>
+        </div>
+      
+        <div class="song">
+          <img src="https://i.ytimg.com/vi/og9xn457zPw/hqdefault.jpg" alt="Plug Cover" />
+          <div class="song-info">
+            <p class="title">Plug</p>
+            <p class="artist">Talha Anjum</p>
+            <a href="https://youtu.be/og9xn457zPw" target="_blank" class="btn">Watch</a>
+          </div>
+        </div>
+      
+      </div>
+      
+      </body>
+      </html>
+      
                   <h1>Top 5 Trending Songs in Japan (April 2025)</h1>
     <div class="song-list">
   
@@ -1860,6 +1911,3 @@ body {
           
       
          
-
-            
-           
